@@ -9,9 +9,9 @@ This repository tracks everything I learn step-by-step — notes, code, and prog
 
 | Day | Topic | Status | Notes / Code |
 |-----|-------|--------|---------------|
-| 1 | Setting up Java & IDE (IntelliJ/Eclipse) | ✅ Done | [Day01](./Day01_Setup_JDK_IDE) |
-| 2 | Introduction to Java & JVM | ✅ Done | [Day02](./Day02_Intro_Java_JVM) |
-| 3 | Basic Syntax: Variables, Data Types, Operators | ⏳ In Progress | [Day03](./Day03_Basic_Syntax) |
+| 1 | Setting up Java & IDE (IntelliJ/Eclipse) | ⏳ In Progress | [Day01](./Day01_Setup_JDK_IDE) |
+| 2 | Introduction to Java & JVM | ❌ Not Started | [Day02](./Day02_Intro_Java_JVM) |
+| 3 | Basic Syntax: Variables, Data Types, Operators | ❌ Not Started | [Day03](./Day03_Basic_Syntax) |
 | 4 | Control Flow: if-else, switch, loops | ❌ Not Started | [Day04](./Day04_Control_Flow) |
 | 5 | Input & Output in Java | ❌ Not Started | [Day05](./Day05_Input_Output) |
 | 6 | Methods & Parameters | ❌ Not Started | [Day06](./Day06_Methods) |
@@ -19,6 +19,4 @@ This repository tracks everything I learn step-by-step — notes, code, and prog
 
 ---
 
-**Author:** [komekovv]  
-🗓 Started: *[02.11.2025]*  
----
+Started: *02.11.2025*  
